@@ -10,7 +10,7 @@
 body {
     width: 100%;
     min-height: 100vh;
-    background-color: rgb(243, 243, 243);
+    background-image: url(img/telafundo.jpg);
     margin: 0;
     padding: 0;
     display: flex;
@@ -138,7 +138,7 @@ body {
 
 @media (max-width: 650px) {
     body {
-        background-color: #ffffff;
+        background-color: #e9e1e1;
     }
 
     .instagram-wrapper {
